@@ -1,0 +1,11 @@
+{
+  "editorconfig": true,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "all",
+  "jsxSingleQuote": true,
+  "tabWidth": 2,
+  "printWidth": 160,
+  "arrowParens": "always",
+  "prettier.jsxSingleQuote": true
+}

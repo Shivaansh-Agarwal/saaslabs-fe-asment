@@ -1,0 +1,25 @@
+.table {
+  width: 100%;
+  border: 1px solid #d1d5db;
+  border-collapse: collapse;
+  table-layout: auto;
+}
+
+.theadRow {
+  background-color: #f3f4f6;
+  border-bottom: 1px solid #d1d5db;
+}
+
+.tbodyRow:nth-child(even) {
+  background-color: #f9fafb; /* bg-gray-50 */
+}
+
+.tbodyRow:hover {
+  background-color: #e5e7eb; /* bg-gray-200 */
+}
+
+.rowItem {
+  border: 1px solid #d1d5db;
+  padding: 8px 16px;
+  text-align: left;
+}
